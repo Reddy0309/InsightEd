@@ -1,0 +1,326 @@
+@import '@fortawesome/fontawesome-free/css/all.css';
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden; /* Hide horizontal overflow */
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensures app takes full viewport height */
+}
+
+.main-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 4rem;
+  padding-top: 50px; /* Ensure content is below the sliding images */
+  animation: zoomIn 1s ease-out; /* Add animation */
+  animation-fill-mode: forwards; /* Ensures element stays at the end of animation */
+  opacity: 0; /* Initially hide the sections */
+}
+
+.left-section,
+.right-section {
+  flex: 1; /* Equal width for both sections */
+  background-color: #FFFFFF; /* Example background color */
+  padding: 1rem;
+
+  /* Animation */
+  animation: zoomIn 1s ease-out;
+  animation-fill-mode: forwards; /* Ensures element stays at the end of animation */
+  opacity: 0; /* Initially hide the sections */
+  transform: scale(0.9); /* Initially scale down */
+}
+
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale(0.9); /* Start scale */
+  }
+  to {
+    opacity: 1;
+    transform: scale(1); /* End scale */
+  }
+}
+
+.right-image {
+  width: 100%; /* Ensures the image fills its container */
+  border-radius: 8px; /* Example border radius */
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+.centered-images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh; /* Adjust height as needed */
+  position: relative; /* Make this element a positioning context for children */
+  margin-top: 90px; 
+  margin-bottom: 20px; /* Space below images */
+  animation: zoomIn 1s ease-out; /* Add animation */
+  animation-fill-mode: forwards; /* Ensures element stays at the end of animation */
+  opacity: 0; /* Initially hide the sections */
+}
+
+.sliding-image {
+  position: absolute;
+  width: 90%; /* Match the size of the parent container */
+  height: 100%; /* Match the size of the parent container */
+  object-fit: cover; /* Ensure the image covers the container */
+  opacity: 0; /* Initially hidden */
+  transition: opacity 3s ease-in-out; /* Smooth transition over 4 seconds */
+  padding-top: 70px;
+}
+
+.sliding-image.active {
+  opacity: 1; /* Show the active image */
+}
+
+.connect-text {
+  color: #5D22DC; /* Purple color for "Connect with us on" text */
+  font-size: 1.5rem; /* Adjust font size as needed */
+  text-align: center; /* Center the text */
+  margin-top: 20px; /* Add some space above the text */
+}
+
+.icon-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px; /* Space between the text and the icons */
+}
+
+.icon-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0 0.5rem; /* Adjust spacing between buttons */
+}
+
+.icon-button a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.icon-button img,
+.icon-button svg {
+  width: 40px; /* Adjust icon size as needed */
+  height: 40px;
+  object-fit: contain; /* Ensure the icon fits within the button */
+}
+
+.bottom-block {
+  background-color: #160931; /* Color for the bottom block */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  color: #fff; /* Text color inside the block */
+}
+
+.bottom-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.bottom-left p {
+  margin: 0;
+}
+
+.line-image {
+  width: 10px; /* Adjust width as needed */
+  height: 120px; /* Maintain aspect ratio */
+  margin-left: 1rem; /* Adjust margin to separate from text */
+}
+
+.small-rect-block {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the content horizontally */
+  background-color: #FFFFFF; /* Color for the small rectangle block */
+  padding: 0.5rem;
+  margin: 1rem auto; /* Center the block horizontally and add space */
+  width: fit-content; /* Adjust the width to fit content */
+}
+
+.insight-logo {
+  width: 50px; /* Adjust width as needed */
+  height: 50px; /* Adjust height as needed */
+  margin-right: 1rem; /* Space between image and text */
+}
+
+.insight-text {
+  color: #5D22DC; /* Text color */
+  font-size: 1.5rem; /* Adjust font size as needed */
+}
+
+.community-voices {
+  text-align: center;
+  color: #091E42; /* Adjust color as needed */
+  font-size: 2rem; /* Adjust font size as needed */
+  margin: 1rem 0; /* Adjust margin to add space around the text */
+}
+
+.Content-section {
+  background-color: #FAF8FF; /* Background color for the new section */
+  padding: 2rem 0; /* Adjust padding as needed */
+  text-align: center; /* Center the content horizontally */
+}
+
+.about-dropdown {
+  position: relative;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.toggle-about-button {
+  background-color: #9F72FF;
+  color: #FFFFFF;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.about-content {
+  background-color: #FFFFFF;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-top: 1rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.About-content {
+  font-size: 26px;
+  text-align: justify;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap; /* Allow wrapping of cards if necessary */
+  margin: 2rem 0;
+}
+
+.card {
+  position: relative; /* Ensure child elements are positioned relative to the card */
+  background-color: #f4f4f4; /* Fallback color */
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  width: 20%; /* Adjust width to fit two cards per row */
+  height: 250px; /* Adjust height to match feedback block size */
+  text-align: center;
+  background-size: cover; /* Ensure the background image covers the card */
+  background-position: center; /* Center the background image */
+  color: #fff; /* Change text color for better visibility on the background image */
+  margin-bottom: 1rem; /* Add margin to create space between rows */
+  opacity: 1; /* Initially show the card */
+  transform-style: preserve-3d; /* Enable 3D transformations */
+  transition: transform 0.5s; /* Smooth transition for transform */
+}
+
+.image-container {
+  position: relative; /* Ensure images are positioned relative to the container */
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Adjust as needed */
+  margin: 0 auto; /* Center the images horizontally */
+}
+
+.group-image {
+  width: 100%; /* Adjust size as needed */
+  height: auto;
+}
+
+.inner-group-image {
+  position: absolute; /* Position absolutely within the container */
+  top: 50%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Adjust position to center within the container */
+  width: 50%; /* Adjust size as needed */
+  height: auto;
+}
+
+.card:hover {
+  transform: rotateY(-180deg); /* Flip the card on hover */
+}
+
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden; /* Hide the back of the card */
+}
+
+.card-front {
+  z-index: 2; /* Ensure the front is visible initially */
+  transform: rotateY(0deg);
+}
+
+.card-back {
+  transform: rotateY(180deg);
+}
+
+.feedback-block {
+  background-color: #091E42; /* Background color */
+  color: #FFFFFF; /* Text color */
+  padding: 1rem;
+  border-radius: 8px;
+  width: 20%; /* Adjust width to fit two blocks per row */
+  height: 250px; /* Adjust height to match card size */
+  text-align: center;
+  margin-bottom: 1rem; /* Add margin to create space between rows */
+}
+
+.carousel-slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transition: opacity 1s ease-in-out; /* Smooth transition for opacity */
+}
+
+.carousel-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensure image covers the slide */
+}
+
+.carousel .slide-indicators {
+  position: absolute;
+  bottom: 10px; /* Adjust position as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px; /* Adjust gap between indicators */
+}
+
+.carousel .slide-indicator {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #fff; /* Adjust color */
+  cursor: pointer;
+}
+
+.about-text {
+  text-align: justify;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-top: 1rem;
+  padding: 0 10%;
+}
+
+.intro-text {
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: justify;
+  padding: 0 2rem;
+  margin-bottom: 2rem; /* Add margin below the text */
+}

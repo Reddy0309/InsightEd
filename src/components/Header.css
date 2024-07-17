@@ -1,0 +1,130 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Ensure items are centered vertically */
+    background-color: #FFFFFF;
+    color: black;
+    padding: 0.8rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 98%;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Logo {
+    height: 50px;
+    margin-right: 1rem;
+  }
+  
+  .Header-center {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    padding-right: 230px;
+  }
+  
+  .Header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  button, .Nav-button {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: black;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .About-button {
+    display: flex;
+    align-items: center;
+  }
+  
+  .About-icon {
+    height: 20px;
+    margin-left: 0.5rem;
+  }
+  
+  .Login-button, .dropdown-button {
+    color: black;
+    position: relative;
+  }
+  
+  .Signin-button {
+    background-color: #5D22DC;
+    border: none;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    padding: 0.5rem 1rem; /* Add padding to match button style */
+    border-radius: 4px; /* Add border radius to match button style */
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    display: inline-block; /* Ensure it behaves like a button */
+  }
+  
+  button:hover, .Nav-button:hover, .Signin-button:hover {
+    opacity: 0.8;
+  }
+  
+  h1 {
+    margin: 0;
+    padding-bottom: 10px;
+  }
+  
+  .dropdown {
+    position: relative;
+  }
+  
+  .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+    z-index: 1000;
+  }
+  
+  .dropdown-item {
+    background-color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .about-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+  }
+  
+  .about-content {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+  
