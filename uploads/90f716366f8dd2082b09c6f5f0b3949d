@@ -1,0 +1,1041 @@
+﻿SL. NO.,USN,NAME,FACULTY1,CT1,CA1,%ATT1,1 IA1 ,FACULTY2,CT2,CA2,%ATT2,2 IA1,FACULTY3,CT3,CA3,%ATT3,3 IA1,FACULTY4,CT4,CA4,%ATT4,4 IA1,FACULTY5,CT5,CA5,%ATT5,5 IA1,FACULTY6,CT6,CA6,%ATT6,FACULTY7,CT7,CA7,%ATT7
+1,1KS21CS061,MONIKA D,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,17,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,11,100,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+2,1KS21CS062,N VIDYASAGAR,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,11,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,8,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,10,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,11,100,15,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+3,1KS21CS063,NAGADARSHAN R P,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,16,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,17,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+4,1KS21CS064,NAGASHREE A,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,17,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+5,1KS21CS065,NAREN RAKSHITH K V,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,12,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,11,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,14,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,19,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+6,1KS21CS066,NETYAM SHIVSARAN,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,12,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,14,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,15,100,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,19,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,19,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+7,1KS21CS067,NIKHIL SAI K V,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,12,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,6,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,16,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,11,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,11,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+8,1KS21CS068,NOOR ZAHIDA,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,12,100,16,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,13,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,19,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,11,100,17,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+9,1KS21CS069,OMKAR ARJUN MAGADUM,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,6,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,8,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,15,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,10,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,6,55,15,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+10,1KS21CS070,POOJA G,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,19,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,19,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+11,1KS21CS071,POOJITHA M V,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,13,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,16,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+12,1KS21CS072,POOJITHA R,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,AB,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,17,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,15,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+13,1KS21CS074,PRIYANKA V,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,16,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,16,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,AB,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+14,1KS21CS075,R AISHWARYA,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,AB,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,AB,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,10,77,17,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,12,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+15,1KS21CS076,R HARSHA,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,10,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,7,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,9,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,6,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,4,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,2,66.66666667
+16,1KS21CS077,RAKSHITA G SATARADDI,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,19,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,18,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,15,100,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,17,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+17,1KS21CS078,RAKSHITHA D H,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,17,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,14,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,15,100,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,18,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,16,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+18,1KS21CS079,RASHMI B PHULARI,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,17,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+19,1KS21CS080,RAVEESH PRASAD M,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,6,50,12,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,11,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,15,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,6,55,11,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+20,1KS21CS081,RAVITEJ  ARJUN KAKHANDAKI,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,14,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,19,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+21,1KS21CS082,REDDY TEJASWINI A,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,20,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+22,1KS21CS083,RUSHIKESH B,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,18,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,3,43,14,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,11,73,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,16,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+23,1KS21CS084,RUTHU M R,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,14,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,19,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+24,1KS21CS085,SAGAR S N,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,15,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,5,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,11,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,17,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,2,66.66666667
+25,1KS21CS086,SAMRAT SINGH,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,5,42,15,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,3,43,11,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,10,67,16,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,9,69,8,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,4,36,19,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,2,50,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,2,66.66666667
+26,1KS21CS087,SANTHOSH K A,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,15,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,10,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,AB,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,11,100,17,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+27,1KS21CS088,SHAMITHA RAVISHANKAR,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,12,100,16,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,16,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,11,100,19,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+28,1KS21CS089,SHEETAL NAIK,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,14,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,4,57,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,12,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,19,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,17,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+29,1KS21CS090,SHEETHAL G,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,16,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,15,100,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,10,77,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,19,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,2,66.66666667
+30,1KS21CS091,SHEETHAL R,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,17,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,15,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+31,1KS21CS092,SHOEB AHMED QUADRI,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,5,42,13,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,3,43,10,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,11,73,17,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,8,62,13,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,6,55,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,2,66.66666667
+32,1KS21CS093,SHREYAS C,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,9,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,6,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,15,100,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,11,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,12,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+33,1KS21CS094,SINDHU MEGHA,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,15,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,18,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+34,1KS21CS095,SKANDA KUMAR H S,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,20,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+35,1KS21CS096,SNEHA S,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,15,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+36,1KS21CS097,SOUJANYA N,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,12,100,20,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+37,1KS21CS098,SRINIDHI MADHUSUDHAN,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,AB,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,17,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,16,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+38,1KS21CS099,SUMAN B S,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,12,100,20,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+39,1KS21CS100,SUMEDHA R,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,16,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,9,69,11,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,2,66.66666667
+40,1KS21CS101,SUMUKHA S BHARADWAJ,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,17,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,18,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,17,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+41,1KS21CS102,SUNIDHI P,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,20,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,18,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+42,1KS21CS103,SURESH C,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,15,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,15,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,11,73,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,10,77,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+43,1KS21CS104,SUSHMITHA M,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,11,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,18,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,18,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,19,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+44,1KS21CS105,SWARUP R KOWSHIK,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,12,100,18,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,18,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,17,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,8,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+45,1KS21CS106,TEJASHREE GOWDA Y K,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,17,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,14,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+46,1KS21CS107,UJWAL M L,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,12,100,16,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,17,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+47,1KS21CS108,V M TEJUS,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,20,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,AB,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+48,1KS21CS109,VAISHALI BHOSLE,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,19,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+49,1KS21CS110,VANISHREE,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,20,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,20,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+50,1KS21CS111,VARSHA H R,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,16,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,3,43,17,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,9,69,17,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,16,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+51,1KS21CS112,VARUN SAI V,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,AB,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,18,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,13,100,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,2,18,13,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+52,1KS21CS113,VIBHA GOVIN S,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,11,92,19,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,18,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,20,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,10,77,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,16,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+53,1KS21CS114,VIJETHA S,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,12,100,AB,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,17,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,AB,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,AB,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+54,1KS21CS115,VILAS V,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,18,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,17,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,AB,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,AB,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,2,50,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+55,1KS21CS116,VISHAL KAMAN,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,18,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,18,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+56,1KS21CS117,YASHAS D GOWDA,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,12,100,19,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,AB,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,AB,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+57,1KS22CS400,ABHISHEK S,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,11,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,2,29,AB,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,10,67,AB,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,,#REF!,6,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,8,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,2,50,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+58,1KS22CS402,ARUNA G N,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,18,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,19,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,10,91,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+59,1KS22CS406,LAKSHMEESH M V,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,11,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,18,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,20,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,9,82,20,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+60,1KS22CS407,LAYA R,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,9,75,11,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,11,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,11,85,18,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,11,100,7,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+61,1KS22CS409,MANOHARI S,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,10,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,3,43,AB,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,11,73,AB,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,10,77,5,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,6,55,10,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,2,50,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+62,1KS22CS410,MOHAMMED FAISAL,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,8,67,9,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,6,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,AB,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,AB,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,10,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,2,50,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+63,1KS22CS412,SAINATH A,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,9,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,5,71,11,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,12,80,19,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,9,69,13,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,7,64,5,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,3,75,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+64,1KS22CS415,SPANDANA M,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,10,84,15,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,7,100,13,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,13,87,18,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,12,92,16,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,11,100,8,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100
+65,1KS22CS416,VEDASHREE S,"SE&PM
+(21CS61)
+Mr.Krishna Gudi",12,7,59,12,"FSD
+(21CS62)
+Mrs. Pallavi K.N",7,6,86,13,"CG&IP
+(21CS63)
+Dr R Senkamalavalli",15,14,93,14,"ADV JAVA
+(21CS642)
+Mr.Laxmikantha K",13,9,69,14,"REPP
+(21ME652)
+Dr.Srinidhi Acharya S R",11,8,73,13,"CG LAB
+(21CSL66)
+Mrs.Kavya M.S",4,4,100,"F S LAB
+(21CS62)
+Mr.Laxmikantha K
+Mrs. Ramya R",3,3,100

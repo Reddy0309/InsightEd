@@ -1,0 +1,940 @@
+[
+  {
+    "Sl": {
+      "No": "1."
+    },
+    "USN": "1KS21CS061",
+    "NAME OF THE STUDENT": "MONIKA D",
+    "STUDENT CONTACT NUMBER": "9108566907",
+    "FATHER NAME": "DAKSHINAMURTHY.B.N",
+    "FATHER CONTACT NUMBER": "9743924751",
+    "MOTHER NAME": "POORNIMA.S",
+    "MOTHER CONTACT NUMBER": "9740187256",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "2."
+    },
+    "USN": "1KS21CS062",
+    "NAME OF THE STUDENT": "N VIDYASAGAR",
+    "STUDENT CONTACT NUMBER": "8073670795",
+    "FATHER NAME": "Nagaraju",
+    "FATHER CONTACT NUMBER": "9448314534",
+    "MOTHER NAME": "Sumalatha",
+    "MOTHER CONTACT NUMBER": "9483139918",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "3."
+    },
+    "USN": "1KS21CS063",
+    "NAME OF THE STUDENT": "NAGADARSHAN R P",
+    "STUDENT CONTACT NUMBER": "9110894301",
+    "FATHER NAME": "Prasad S R",
+    "FATHER CONTACT NUMBER": "9481424489",
+    "MOTHER NAME": "Shobha R Prasad",
+    "MOTHER CONTACT NUMBER": "9686661418",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "4."
+    },
+    "USN": "1KS21CS064",
+    "NAME OF THE STUDENT": "NAGASHREE A",
+    "STUDENT CONTACT NUMBER": "9739583688",
+    "FATHER NAME": "H.N Arun Kumar",
+    "FATHER CONTACT NUMBER": "9844700030",
+    "MOTHER NAME": "G.Hemavathi",
+    "MOTHER CONTACT NUMBER": "9916131661",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "5."
+    },
+    "USN": "1KS21CS065",
+    "NAME OF THE STUDENT": "NAREN RAKSHITH K V",
+    "STUDENT CONTACT NUMBER": "8147246681",
+    "FATHER NAME": "Dr kn Venkatachalapathy",
+    "FATHER CONTACT NUMBER": "9448672824",
+    "MOTHER NAME": "Rajani an",
+    "MOTHER CONTACT NUMBER": "8147246681",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "6."
+    },
+    "USN": "1KS21CS066",
+    "NAME OF THE STUDENT": "NEDYAM SHIVSARAN",
+    "STUDENT CONTACT NUMBER": "8328379025",
+    "FATHER NAME": "Netyam Prabhakar",
+    "FATHER CONTACT NUMBER": "9603573412",
+    "MOTHER NAME": "Netyam Dhanalakshmi",
+    "MOTHER CONTACT NUMBER": "9052452869",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "7."
+    },
+    "USN": "1KS21CS067",
+    "NAME OF THE STUDENT": "NIKHIL SAI K V",
+    "STUDENT CONTACT NUMBER": "9663041708",
+    "FATHER NAME": "Venkatesh Babu E",
+    "FATHER CONTACT NUMBER": "9448313238",
+    "MOTHER NAME": "Vanaja KV",
+    "MOTHER CONTACT NUMBER": "9901152531",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "8."
+    },
+    "USN": "1KS21CS068",
+    "NAME OF THE STUDENT": "NOOR ZAHIDA",
+    "STUDENT CONTACT NUMBER": "7760529559",
+    "FATHER NAME": "Shakeel Anver",
+    "FATHER CONTACT NUMBER": "9141830468",
+    "MOTHER NAME": "Sirajunnisa khannam",
+    "MOTHER CONTACT NUMBER": "9845369839",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "9."
+    },
+    "USN": "1KS21CS069",
+    "NAME OF THE STUDENT": "OMKAR ARJUN MAGADUM",
+    "STUDENT CONTACT NUMBER": "8197463367",
+    "FATHER NAME": "ARJUN",
+    "FATHER CONTACT NUMBER": "9945093796",
+    "MOTHER NAME": "SHOBHA",
+    "MOTHER CONTACT NUMBER": "9071635641",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "10."
+    },
+    "USN": "1KS21CS070",
+    "NAME OF THE STUDENT": "POOJA G",
+    "STUDENT CONTACT NUMBER": "7892536329",
+    "FATHER NAME": "Rajendra naidu. G",
+    "FATHER CONTACT NUMBER": "8550864915",
+    "MOTHER NAME": "Shamala",
+    "MOTHER CONTACT NUMBER": "7892536329",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "11."
+    },
+    "USN": "1KS21CS071",
+    "NAME OF THE STUDENT": "POOJITHA M V",
+    "STUDENT CONTACT NUMBER": "6363315502",
+    "FATHER NAME": "M C Venkatasubbaiah",
+    "FATHER CONTACT NUMBER": "9380474965",
+    "MOTHER NAME": "Muthyalamma",
+    "MOTHER CONTACT NUMBER": "8217776551",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "12."
+    },
+    "USN": "1KS21CS072",
+    "NAME OF THE STUDENT": "POOJITHA R",
+    "STUDENT CONTACT NUMBER": "9591057163",
+    "FATHER NAME": "Ramesh Reddy",
+    "FATHER CONTACT NUMBER": "7702323704",
+    "MOTHER NAME": "Kavitha",
+    "MOTHER CONTACT NUMBER": "8008677246",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "13."
+    },
+    "USN": "1KS21CS073",
+    "NAME OF THE STUDENT": "PRANAY G",
+    "STUDENT CONTACT NUMBER": "8217209297",
+    "FATHER NAME": "G Purushotham",
+    "FATHER CONTACT NUMBER": "9448485123",
+    "MOTHER NAME": "G Madhumathi",
+    "MOTHER CONTACT NUMBER": "9986431443",
+    "NAME OF THE MENTOR": "Mrs.Pallavi K N",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "14."
+    },
+    "USN": "1KS21CS074",
+    "NAME OF THE STUDENT": "PRIYANKA V",
+    "STUDENT CONTACT NUMBER": "9632443949",
+    "FATHER NAME": "Vasanth Kumar K",
+    "FATHER CONTACT NUMBER": "9448832201",
+    "MOTHER NAME": "Nethra Vasanth",
+    "MOTHER CONTACT NUMBER": "9482020494",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "15."
+    },
+    "USN": "1KS21CS075",
+    "NAME OF THE STUDENT": "R AISHWARYA",
+    "STUDENT CONTACT NUMBER": "7795399447",
+    "FATHER NAME": "S.  Ravikumar",
+    "FATHER CONTACT NUMBER": "9945904321",
+    "MOTHER NAME": "Sujatha R",
+    "MOTHER CONTACT NUMBER": "7795399447",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "16."
+    },
+    "USN": "1KS21CS076",
+    "NAME OF THE STUDENT": "HARSHA R",
+    "STUDENT CONTACT NUMBER": "9380591251",
+    "FATHER NAME": "N H Ramanna",
+    "FATHER CONTACT NUMBER": "6364356082",
+    "MOTHER NAME": "A M Shanthamma",
+    "MOTHER CONTACT NUMBER": "9686526672",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "17."
+    },
+    "USN": "1KS21CS077",
+    "NAME OF THE STUDENT": "RAKSHITA G SATARADDI",
+    "STUDENT CONTACT NUMBER": "9110810253",
+    "FATHER NAME": "Gadigeppa",
+    "FATHER CONTACT NUMBER": "9449813126",
+    "MOTHER NAME": "Geeta",
+    "MOTHER CONTACT NUMBER": "8453789617",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "18."
+    },
+    "USN": "1KS21CS078",
+    "NAME OF THE STUDENT": "RAKSHITHA D H",
+    "STUDENT CONTACT NUMBER": "8618739207",
+    "FATHER NAME": "Hanumantharaju G V",
+    "FATHER CONTACT NUMBER": "9449581014",
+    "MOTHER NAME": "Kamalakshi S T",
+    "MOTHER CONTACT NUMBER": "9483566578",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "19."
+    },
+    "USN": "1KS21CS079",
+    "NAME OF THE STUDENT": "RASHMI B PHULARI",
+    "STUDENT CONTACT NUMBER": "8618315657",
+    "FATHER NAME": "Basavaraj",
+    "FATHER CONTACT NUMBER": "9880886685",
+    "MOTHER NAME": "Ganga",
+    "MOTHER CONTACT NUMBER": "9110888875",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "20."
+    },
+    "USN": "1KS21CS080",
+    "NAME OF THE STUDENT": "RAVEESH PRASAD M",
+    "STUDENT CONTACT NUMBER": "7760979825",
+    "FATHER NAME": "Madhukar.P",
+    "FATHER CONTACT NUMBER": "9845119825",
+    "MOTHER NAME": "Hemapriya.M",
+    "MOTHER CONTACT NUMBER": "9900519825",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "21."
+    },
+    "USN": "1KS21CS081",
+    "NAME OF THE STUDENT": "RAVITEJ ARJUN KAKHANDAKI",
+    "STUDENT CONTACT NUMBER": "8073809901",
+    "FATHER NAME": "Arjun",
+    "FATHER CONTACT NUMBER": "9972466673",
+    "MOTHER NAME": "Sujata",
+    "MOTHER CONTACT NUMBER": "8310877366",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "22."
+    },
+    "USN": "1KS21CS082",
+    "NAME OF THE STUDENT": "REDDY TEJASWINI A",
+    "STUDENT CONTACT NUMBER": "8073469210",
+    "FATHER NAME": "M N Reddy Anand",
+    "FATHER CONTACT NUMBER": "9900240176",
+    "MOTHER NAME": "Manjula Anand",
+    "MOTHER CONTACT NUMBER": "9741524367",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "23."
+    },
+    "USN": "1KS21CS083",
+    "NAME OF THE STUDENT": "RUSHIKESH B",
+    "STUDENT CONTACT NUMBER": "9886349801",
+    "FATHER NAME": "Nagesh. B",
+    "FATHER CONTACT NUMBER": "7899990916",
+    "MOTHER NAME": "Rekharani. D",
+    "MOTHER CONTACT NUMBER": "9449763266",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "24."
+    },
+    "USN": "1KS21CS084",
+    "NAME OF THE STUDENT": "RUTHU M R",
+    "STUDENT CONTACT NUMBER": "8197814130",
+    "FATHER NAME": "Rangaswamy MR",
+    "FATHER CONTACT NUMBER": "9481289614",
+    "MOTHER NAME": "Asha SM",
+    "MOTHER CONTACT NUMBER": "8971391214",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "25."
+    },
+    "USN": "1KS21CS085",
+    "NAME OF THE STUDENT": "SAGAR S N",
+    "STUDENT CONTACT NUMBER": "8618036958",
+    "FATHER NAME": "Nagabhushan",
+    "FATHER CONTACT NUMBER": "9901324708",
+    "MOTHER NAME": "Kusuma",
+    "MOTHER CONTACT NUMBER": "9901324708",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "26."
+    },
+    "USN": "1KS21CS086",
+    "NAME OF THE STUDENT": "SAMRAT SINGH",
+    "STUDENT CONTACT NUMBER": "6206604319",
+    "FATHER NAME": "Sharwan Kumar Singh",
+    "FATHER CONTACT NUMBER": "9804208430",
+    "MOTHER NAME": "Nilam Singh",
+    "MOTHER CONTACT NUMBER": "9844449581",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "27."
+    },
+    "USN": "1KS21CS087",
+    "NAME OF THE STUDENT": "SANTHOSH K A",
+    "STUDENT CONTACT NUMBER": "9900006336",
+    "FATHER NAME": "Anil Kumar B K",
+    "FATHER CONTACT NUMBER": "7204738416",
+    "MOTHER NAME": "M S Baby Varsha",
+    "MOTHER CONTACT NUMBER": "9900009936",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "28."
+    },
+    "USN": "1KS21CS088",
+    "NAME OF THE STUDENT": "SHAMITHA RAVI SHANKAR",
+    "STUDENT CONTACT NUMBER": "9513051302",
+    "FATHER NAME": "Ravishankar",
+    "FATHER CONTACT NUMBER": "9880719725",
+    "MOTHER NAME": "Madhavi.Ravishankar",
+    "MOTHER CONTACT NUMBER": "9901403360",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "29."
+    },
+    "USN": "1KS21CS089",
+    "NAME OF THE STUDENT": "SHEETAL NAIK",
+    "STUDENT CONTACT NUMBER": "9008104268",
+    "FATHER NAME": "Ganapati Naik",
+    "FATHER CONTACT NUMBER": "9731988447",
+    "MOTHER NAME": "Chandrasheela Naik",
+    "MOTHER CONTACT NUMBER": "9738288552",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "30."
+    },
+    "USN": "1KS21CS090",
+    "NAME OF THE STUDENT": "SHEETHAL G",
+    "STUDENT CONTACT NUMBER": "7892437160",
+    "FATHER NAME": "Ganapathi.G.M",
+    "FATHER CONTACT NUMBER": "7899674062",
+    "MOTHER NAME": "Uma.R",
+    "MOTHER CONTACT NUMBER": "9481989430",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "31."
+    },
+    "USN": "1KS21CS091",
+    "NAME OF THE STUDENT": "SHEETHAL R",
+    "STUDENT CONTACT NUMBER": "7019009342",
+    "FATHER NAME": "RAJANNA R",
+    "FATHER CONTACT NUMBER": "9620049309",
+    "MOTHER NAME": "Bhagyalakshmi",
+    "MOTHER CONTACT NUMBER": "8147957718",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "32."
+    },
+    "USN": "1KS21CS092",
+    "NAME OF THE STUDENT": "SHOEB AHMED QUADRI",
+    "STUDENT CONTACT NUMBER": "9663345304",
+    "FATHER NAME": "Iftequar Ahmed Quadri",
+    "FATHER CONTACT NUMBER": "9986248166",
+    "MOTHER NAME": "Anees fatima",
+    "MOTHER CONTACT NUMBER": "7795425159",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "33."
+    },
+    "USN": "1KS21CS093",
+    "NAME OF THE STUDENT": "SHREYAS C",
+    "STUDENT CONTACT NUMBER": "8431989813",
+    "FATHER NAME": "Chandregowda D",
+    "FATHER CONTACT NUMBER": "9606011282",
+    "MOTHER NAME": "Sowmya",
+    "MOTHER CONTACT NUMBER": "9611101728",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "34."
+    },
+    "USN": "1KS21CS094",
+    "NAME OF THE STUDENT": "SINDHU MEGHA",
+    "STUDENT CONTACT NUMBER": "6360968690",
+    "FATHER NAME": "M S Krishnamurthy",
+    "FATHER CONTACT NUMBER": "9008594447",
+    "MOTHER NAME": "B L Mamatha",
+    "MOTHER CONTACT NUMBER": "9980803572",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "mlujwal706@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "35."
+    },
+    "USN": "1KS21CS095",
+    "NAME OF THE STUDENT": "SKANDA KUMAR H S",
+    "STUDENT CONTACT NUMBER": "7019400282",
+    "FATHER NAME": "GURU PRASAD K",
+    "FATHER CONTACT NUMBER": "9886492621",
+    "MOTHER NAME": "Late Rekha K",
+    "MOTHER CONTACT NUMBER": "9742084348",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "36."
+    },
+    "USN": "1KS21CS096",
+    "NAME OF THE STUDENT": "SNEHA S",
+    "STUDENT CONTACT NUMBER": "8431965144",
+    "FATHER NAME": "Srinivas v",
+    "FATHER CONTACT NUMBER": "9986392347",
+    "MOTHER NAME": "Latha k",
+    "MOTHER CONTACT NUMBER": "7619224567",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "37."
+    },
+    "USN": "1KS21CS097",
+    "NAME OF THE STUDENT": "SOUJANYA N",
+    "STUDENT CONTACT NUMBER": "7022453790",
+    "FATHER NAME": "Govinda naidu",
+    "FATHER CONTACT NUMBER": "9900350152",
+    "MOTHER NAME": "Sujatha .N",
+    "MOTHER CONTACT NUMBER": "9900350152",
+    "NAME OF THE MENTOR": "Mr. Laxmikantha K",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "38."
+    },
+    "USN": "1KS21CS098",
+    "NAME OF THE STUDENT": "SRINIDHI MADHUSUDHAN",
+    "STUDENT CONTACT NUMBER": "9611824422",
+    "FATHER NAME": "K Madhusudan",
+    "FATHER CONTACT NUMBER": "9845006723",
+    "MOTHER NAME": "Usha Madhusudan",
+    "MOTHER CONTACT NUMBER": "9448592322",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "39."
+    },
+    "USN": "1KS21CS099",
+    "NAME OF THE STUDENT": "SUMAN B S",
+    "STUDENT CONTACT NUMBER": "6362149408",
+    "FATHER NAME": "B K Suresh",
+    "FATHER CONTACT NUMBER": "9448136948",
+    "MOTHER NAME": "Manjula",
+    "MOTHER CONTACT NUMBER": "9449836948",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "40."
+    },
+    "USN": "1KS21CS100",
+    "NAME OF THE STUDENT": "SUMEDHA R",
+    "STUDENT CONTACT NUMBER": "6366665982",
+    "FATHER NAME": "Ramesh.K",
+    "FATHER CONTACT NUMBER": "9740980667",
+    "MOTHER NAME": "Vani.S",
+    "MOTHER CONTACT NUMBER": "9945066758",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "41."
+    },
+    "USN": "1KS21CS101",
+    "NAME OF THE STUDENT": "SUMUKHA S BHARADWAJ",
+    "STUDENT CONTACT NUMBER": "6364911379",
+    "FATHER NAME": "Suresh H",
+    "FATHER CONTACT NUMBER": "9538600596",
+    "MOTHER NAME": "Renuka H S",
+    "MOTHER CONTACT NUMBER": "9845139379",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "42."
+    },
+    "USN": "1KS21CS102",
+    "NAME OF THE STUDENT": "SUNIDHI P",
+    "STUDENT CONTACT NUMBER": "8277119663",
+    "FATHER NAME": "Ravi Prasad P",
+    "FATHER CONTACT NUMBER": "9632222088",
+    "MOTHER NAME": "Meera P",
+    "MOTHER CONTACT NUMBER": "9886814245",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "43."
+    },
+    "USN": "1KS21CS103",
+    "NAME OF THE STUDENT": "SURESH C",
+    "STUDENT CONTACT NUMBER": "8088408836",
+    "FATHER NAME": "Chalapathi s",
+    "FATHER CONTACT NUMBER": "9482845224",
+    "MOTHER NAME": "Shivamma",
+    "MOTHER CONTACT NUMBER": "8762974113",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "44."
+    },
+    "USN": "1KS21CS104",
+    "NAME OF THE STUDENT": "SUSHMITHA M",
+    "STUDENT CONTACT NUMBER": "9845737535",
+    "FATHER NAME": "Muniraj",
+    "FATHER CONTACT NUMBER": "9964881449",
+    "MOTHER NAME": "Vijayalakshmi",
+    "MOTHER CONTACT NUMBER": "6362165960",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "45."
+    },
+    "USN": "1KS21CS105",
+    "NAME OF THE STUDENT": "SWARUP R KOWSHIK",
+    "STUDENT CONTACT NUMBER": "7795906793",
+    "FATHER NAME": "Ramesh H.L",
+    "FATHER CONTACT NUMBER": "9620228907",
+    "MOTHER NAME": "Nagashree M.S",
+    "MOTHER CONTACT NUMBER": "8277277211",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "46."
+    },
+    "USN": "1KS21CS106",
+    "NAME OF THE STUDENT": "TEJASHREE GOWDA Y K",
+    "STUDENT CONTACT NUMBER": "9535713289",
+    "FATHER NAME": "YARAPPA.M",
+    "FATHER CONTACT NUMBER": "9845950806",
+    "MOTHER NAME": "MANJULA",
+    "MOTHER CONTACT NUMBER": "9535713289",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "47."
+    },
+    "USN": "1KS21CS107",
+    "NAME OF THE STUDENT": "UJWAL M L",
+    "STUDENT CONTACT NUMBER": "7975303761",
+    "FATHER NAME": "K. Manjunath",
+    "FATHER CONTACT NUMBER": "7975300093",
+    "MOTHER NAME": "B.R. Leelavathi",
+    "MOTHER CONTACT NUMBER": "8660956437",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "48."
+    },
+    "USN": "1KS21CS108",
+    "NAME OF THE STUDENT": "V M TEJUS",
+    "STUDENT CONTACT NUMBER": "7892287800",
+    "FATHER NAME": "VENKATESH S",
+    "FATHER CONTACT NUMBER": "9900525747",
+    "MOTHER NAME": "Mamatha N",
+    "MOTHER CONTACT NUMBER": "8147055910",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "49."
+    },
+    "USN": "1KS21CS109",
+    "NAME OF THE STUDENT": "VAISHALI BHOSLE",
+    "STUDENT CONTACT NUMBER": "9019036077",
+    "FATHER NAME": "Mr. Narayan rao bhosle",
+    "FATHER CONTACT NUMBER": "9742734278",
+    "MOTHER NAME": "Ms. Saraswati bhosle",
+    "MOTHER CONTACT NUMBER": "9538904301",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "50."
+    },
+    "USN": "1KS21CS110",
+    "NAME OF THE STUDENT": "VANISHREE",
+    "STUDENT CONTACT NUMBER": "7019590251",
+    "FATHER NAME": "Nagaraju",
+    "FATHER CONTACT NUMBER": "9901540766",
+    "MOTHER NAME": "Manjula",
+    "MOTHER CONTACT NUMBER": "9008055662",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "51."
+    },
+    "USN": "1KS21CS111",
+    "NAME OF THE STUDENT": "VARSHA H R",
+    "STUDENT CONTACT NUMBER": "9731436843",
+    "FATHER NAME": "RAVI.H.K",
+    "FATHER CONTACT NUMBER": "9980919004",
+    "MOTHER NAME": "JYOTHI.K",
+    "MOTHER CONTACT NUMBER": "9980919003",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "52."
+    },
+    "USN": "1KS21CS112",
+    "NAME OF THE STUDENT": "VARUN SAI V",
+    "STUDENT CONTACT NUMBER": "8500028917",
+    "FATHER NAME": "V Purandhar rao",
+    "FATHER CONTACT NUMBER": "9448683828",
+    "MOTHER NAME": "V Prasanna",
+    "MOTHER CONTACT NUMBER": "9449178169",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "53."
+    },
+    "USN": "1KS21CS113",
+    "NAME OF THE STUDENT": "VIBHA GOVIN S",
+    "STUDENT CONTACT NUMBER": "6362537273",
+    "FATHER NAME": "Satish K",
+    "FATHER CONTACT NUMBER": "9449008000",
+    "MOTHER NAME": "Syamala A",
+    "MOTHER CONTACT NUMBER": "8310113054",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "54."
+    },
+    "USN": "1KS21CS114",
+    "NAME OF THE STUDENT": "VIJETHA S",
+    "STUDENT CONTACT NUMBER": "7349026703",
+    "FATHER NAME": "Shivaraju S N",
+    "FATHER CONTACT NUMBER": "9845358686",
+    "MOTHER NAME": "Bhagya Lakshmi M",
+    "MOTHER CONTACT NUMBER": "9742702437",
+    "NAME OF THE MENTOR": "Mr. Prashanth H S",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "55."
+    },
+    "USN": "1KS21CS115",
+    "NAME OF THE STUDENT": "VILAS V",
+    "STUDENT CONTACT NUMBER": "80505 69743",
+    "FATHER NAME": "K R Veeranayaka",
+    "FATHER CONTACT NUMBER": "9449654900",
+    "MOTHER NAME": "Geethamma",
+    "MOTHER CONTACT NUMBER": "9591552686",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "56."
+    },
+    "USN": "1KS21CS116",
+    "NAME OF THE STUDENT": "VISHAL KAMAN",
+    "STUDENT CONTACT NUMBER": "6362076830",
+    "FATHER NAME": "Lakshman",
+    "FATHER CONTACT NUMBER": "8618547201",
+    "MOTHER NAME": "Geeta",
+    "MOTHER CONTACT NUMBER": "8123608410",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "57."
+    },
+    "USN": "1KS21CS117",
+    "NAME OF THE STUDENT": "YASHAS D GOWDA",
+    "STUDENT CONTACT NUMBER": "8088936537",
+    "FATHER NAME": "Durgaiah",
+    "FATHER CONTACT NUMBER": "9448684360",
+    "MOTHER NAME": "Mamatha VH",
+    "MOTHER CONTACT NUMBER": "9591240413",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "58."
+    },
+    "USN": "1KS21CS118",
+    "NAME OF THE STUDENT": "YASHASHWINI R",
+    "STUDENT CONTACT NUMBER": "7022304340",
+    "FATHER NAME": "RAJANNA.P",
+    "FATHER CONTACT NUMBER": "9606368444",
+    "MOTHER NAME": "JAYALAKSHMI T",
+    "MOTHER CONTACT NUMBER": "9632316249",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "59."
+    },
+    "USN": "1KS22CS400",
+    "NAME OF THE STUDENT": "ABHISHEK S",
+    "STUDENT CONTACT NUMBER": "7349372510",
+    "FATHER NAME": "SHIVU",
+    "FATHER CONTACT NUMBER": "9448477380",
+    "MOTHER NAME": "SHASHIKALA",
+    "MOTHER CONTACT NUMBER": "9449807738",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "60."
+    },
+    "USN": "1KS22CS409",
+    "NAME OF THE STUDENT": "MANOHARI S",
+    "STUDENT CONTACT NUMBER": "9632755235",
+    "FATHER NAME": "SURESH",
+    "FATHER CONTACT NUMBER": "9916323458",
+    "MOTHER NAME": "SOWBHAGYA H B",
+    "MOTHER CONTACT NUMBER": "6360249406",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "61."
+    },
+    "USN": "1KS22CS416",
+    "NAME OF THE STUDENT": "VEDASHREE S",
+    "STUDENT CONTACT NUMBER": "9591970427",
+    "FATHER NAME": "SHIVALINGA PRASAD K S",
+    "FATHER CONTACT NUMBER": "9845875467",
+    "MOTHER NAME": "PARVATHI",
+    "MOTHER CONTACT NUMBER": "9964234591",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "62."
+    },
+    "USN": "1KS22CS410",
+    "NAME OF THE STUDENT": "MOHAMMED FAISAL",
+    "STUDENT CONTACT NUMBER": "9611604569",
+    "FATHER NAME": "LATE. JALEEL AHMED",
+    "FATHER CONTACT NUMBER": "9611604569",
+    "MOTHER NAME": "PARVEEN TAJ",
+    "MOTHER CONTACT NUMBER": "9741589931",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "63."
+    },
+    "USN": "1KS22CS407",
+    "NAME OF THE STUDENT": "LAYA R",
+    "STUDENT CONTACT NUMBER": "8660557658",
+    "FATHER NAME": "ASR SHETTY",
+    "FATHER CONTACT NUMBER": "7795129259",
+    "MOTHER NAME": "PREETHI S",
+    "MOTHER CONTACT NUMBER": "7760923910",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "64."
+    },
+    "USN": "1KS22CS412",
+    "NAME OF THE STUDENT": "SAINATH A",
+    "STUDENT CONTACT NUMBER": "6360364798",
+    "FATHER NAME": "ASHOK KUMAR",
+    "FATHER CONTACT NUMBER": "9632860868",
+    "MOTHER NAME": "ANUSUYA",
+    "MOTHER CONTACT NUMBER": "8147379655",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "65."
+    },
+    "USN": "1KS22CS415",
+    "NAME OF THE STUDENT": "SPANDANA M",
+    "STUDENT CONTACT NUMBER": "8792531653",
+    "FATHER NAME": "MUNIMAREGOWDA",
+    "FATHER CONTACT NUMBER": "9008503172",
+    "MOTHER NAME": "SAVITHA",
+    "MOTHER CONTACT NUMBER": "7338345386",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "66."
+    },
+    "USN": "1KS22CS402",
+    "NAME OF THE STUDENT": "ARUNA G N",
+    "STUDENT CONTACT NUMBER": "9731827525",
+    "FATHER NAME": "NARASIMHAIAH",
+    "FATHER CONTACT NUMBER": "9901656469",
+    "MOTHER NAME": "MANGALAMMA",
+    "MOTHER CONTACT NUMBER": "9591924715",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  },
+  {
+    "Sl": {
+      "No": "67."
+    },
+    "USN": "1KS22CS406",
+    "NAME OF THE STUDENT": "LAKSHMEESH M V",
+    "STUDENT CONTACT NUMBER": "6361956554",
+    "FATHER NAME": "VENKATESH M V",
+    "FATHER CONTACT NUMBER": "9945578199",
+    "MOTHER NAME": "SHIVAMMA",
+    "MOTHER CONTACT NUMBER": "9036733243",
+    "NAME OF THE MENTOR": "Swapna Subhash Banasode",
+    "EMAIL": "rtejaswini2003@gmail.com"
+  }
+]

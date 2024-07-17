@@ -1,0 +1,20 @@
+[
+    { "username": "user1","name": "Mr.Krishna Gudi", "password": "password1" },
+    { "username": "user2","name": "Ms.Namyapriya D", "password": "password2" },
+    { "username": "user3","name": "Mrs.Kavya M S", "password": "password3" },
+    { "username": "user4","name": "Dr.Kusuma T", "password": "password4" },
+    { "username": "user5","name": "Dr.Srinidhi Acharya S R", "password": "password5" },
+    { "username": "user6","name": "Mrs.Roopashree S V", "password": "password6" },
+    { "username": "user7","name": "Mr.Roopesh Kumar B N", "password": "password7" },
+    { "username": "user8","name": "Mr.Raghavendrachar S", "password": "password8" },
+    { "username": "user9","name": "Mrs.Shruthi T S", "password": "password9" },
+    { "username": "user10","name": "Mrs.Pallavi K N", "password": "password10" },
+    { "username": "user11","name": "Mr. Laxmikantha K", "password": "password11" },
+    { "username": "user12","name": "Mrs.Ramya R", "password": "password12" },
+    { "username": "user13","name": "Mrs. Rashmi H", "password": "password13" },
+    { "username": "user14","name": "Mr. Somasekhar T", "password": "password14" },
+    { "username": "user15","name": "Mr. Abhilash L Bhat", "password": "password15" },
+    { "username": "user16","name": "Mr. Prashanth H S", "password": "password16" },
+    { "username": "user17","name": "Swapna Subhash Banasode", "password": "password17" }
+  ]
+  
