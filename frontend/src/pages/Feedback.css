@@ -1,0 +1,92 @@
+.feedback-section {
+    margin: 2rem 0;
+    overflow: hidden;
+  }
+  
+  .feedback-row {
+    display: flex;
+    white-space: nowrap;
+    margin-bottom: 1rem;
+    animation: scroll-left 50s linear infinite;
+  }
+  
+  .feedback-row.reverse {
+    animation: scroll-right 50s linear infinite;
+  }
+  
+  .feedback {
+    position: relative;
+    margin: 0 1rem;
+    padding: 1rem;
+    min-width: 400px;
+    border-radius: 8px;
+    text-align: center;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .feedback img.feedback-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .feedback .feedback-text {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 3rem;
+    border-radius: 8px;
+    text-align: justify;
+  }
+  
+  .feedback .feedback-content {
+    font-size: 20px;
+    margin: 0;
+    text-align: justify;
+  }
+  
+  .feedback .feedback-description {
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #000;
+    text-align: justify;
+    line-height: 1.5;
+  }
+  
+  .feedback img.ellipse-image {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+  }
+  
+  .feedback .person-name {
+    position: absolute;
+    bottom: 65px; /* Align vertically centered with ellipse image */
+    left: 100px; /* Position right of the ellipse image */
+    font-size: 1rem; /* Adjust font size as needed */
+    font-weight: bold; /* Optional: Adjust font weight */
+    transform: translateY(50%);
+  }
+  
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  @keyframes scroll-right {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+}
+}

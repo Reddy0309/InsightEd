@@ -1,0 +1,87 @@
+.cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; /* Allow wrapping of cards if necessary */
+    margin: 2rem 0;
+  }
+  
+  .card {
+    position: relative; /* Ensure child elements are positioned relative to the card */
+    background-color: #f4f4f4; /* Fallback color */
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 20%; /* Adjust width to fit two cards per row */
+    height: 250px; /* Adjust height to match feedback block size */
+    text-align: center;
+    background-size: cover; /* Ensure the background image covers the card */
+    background-position: center; /* Center the background image */
+    color: #fff; /* Change text color for better visibility on the background image */
+    margin-bottom: 1rem; /* Add margin to create space between rows */
+    opacity: 1; /* Initially show the card */
+    transform-style: preserve-3d; /* Enable 3D transformations */
+    transition: transform 0.5s; /* Smooth transition for transform */
+  }
+  
+  .image-container {
+    position: relative; /* Ensure images are positioned relative to the container */
+    width: 100px; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+    margin: 0 auto; /* Center the images horizontally */
+  }
+  
+  .group-image {
+    width: 100%; /* Adjust size as needed */
+    height: auto;
+  }
+  
+  .inner-group-image {
+    position: absolute; /* Position absolutely within the container */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust position to center within the container */
+    width: 50%; /* Adjust size as needed */
+    height: auto;
+  }
+  
+  .card:hover {
+    transform: rotateY(180deg); /* Flip the card on hover */
+  }
+  
+  .card-front,
+  .card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden; /* Hide the back of the card */
+    border-radius: 8px; /* Match the card's border radius */
+  }
+  
+  .card-front {
+    z-index: 2; /* Ensure the front is above the back when flipped */
+  }
+  
+  .card-back {
+    transform: rotateY(180deg); /* Initially hide the back of the card */
+    background-color: transparent; /* Remove the background color */
+  }
+  
+  .card-text {
+    margin-top: 2rem; /* Space between image and text */
+    font-size: 1.2rem; /* Adjust font size as needed */
+    color: #000; /* Adjust text color as needed */
+    font-weight: bold;
+  }
+  
+  .card-description {
+    margin-top: 0.5rem; /* Space between the card-text and card-description */
+    margin-left: 2rem;
+    font-size: 1.3rem; /* Adjust font size as needed */
+    color: #000; /* Adjust text color for better visibility */
+    text-align: center; /* Justify the text */
+    line-height: 1.5; /* Adjust line height for readability */
+    padding: 0 3.5rem; /* Add padding to avoid touching the edges */
+    background-color: #5D22DC; /* Highlight text with specified color */
+    color: #fff; /* Ensure text is readable on the highlight background */
+    border-radius: 8px; /* Match the card's border radius */
+}
