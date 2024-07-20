@@ -1,0 +1,51 @@
+/* src/components/Signup.css */
+body {
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+  }
+  
+  .Signup-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 69vh;
+    width: 100%; /* Ensure full width */
+  }
+  
+  .Signup-container {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    margin-top: -40px;
+    gap: 10px;
+    width: 30%; /* Allow full width */
+    height: 30vh;
+    background-color: white; /* Updated background color */
+  }
+  
+  .Signup-input {
+    margin-top: 5px;
+    margin-left: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 90%; /* Full width for inputs */
+  }
+  
+  .Signup-button {
+    margin-left: 40px;
+    border: none;
+    background-color:#5D22DC;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 90%; /* Match input width */
+    max-width: 300px; /* Optional: limit max width */
+    display: flex; /* Centering */
+    justify-content: center; /* Center text */
+  }
+  
+  .Signup-button:hover {
+    background-color: #4ADC22;
+  }
+  h1{
+    margin-top:10px;}
