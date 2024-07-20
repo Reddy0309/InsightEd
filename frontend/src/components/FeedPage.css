@@ -1,0 +1,63 @@
+body {
+    overflow-x: hidden; 
+}
+
+.feed-Page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%; 
+}
+
+.feed-Container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    width: 30%; 
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 110px;
+    margin-bottom: 20px;
+}
+
+.feed-Button {
+    margin-top: 20px;
+    border: none;
+    background-color:#5D22DC;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 90%; 
+    max-width: 210px; 
+    display: flex; 
+    justify-content: center; 
+    padding: 10px 0;
+}
+
+.feed-Button:hover {
+    background-color: #4ADC22;
+}
+
+footer {
+    margin-top: auto;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+}
+.feed-Container>h2{
+    margin: 0;
+    font-size: 2rem;
+    background: url(../assets/purplesky.avif);
+    background-clip: text;
+    color: transparent;
+    animation: move 1s infinite;
+}

@@ -1,5 +1,5 @@
 // models/Event.js
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
 const eventSchema = new mongoose.Schema({
   title: {
@@ -16,6 +16,6 @@ const eventSchema = new mongoose.Schema({
   },
 });
 
-const Event = mongoose.model('Event', eventSchema);
+const Event = mongoose.model("Event", eventSchema);
 
 export default Event;
