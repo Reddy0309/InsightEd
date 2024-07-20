@@ -13,9 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tensorflow-models/blazeface": "^0.1.0",
-    "@tensorflow-models/face-landmarks-detection": "^1.0.5",
-    "@tensorflow/tfjs": "^4.20.0",
+    
     "axios": "^1.7.2",
     "cors": "^2.8.5",
     "csvtojson": "^2.0.10",
