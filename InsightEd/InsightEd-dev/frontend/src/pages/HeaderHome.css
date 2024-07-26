@@ -1,0 +1,164 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Ensure items are centered vertically */
+    background-color: #FFFFFF;
+    color: black;
+    padding: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 98%;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 50px;
+    margin-right: 1rem;
+  }
+  
+  .header-center {
+    display: flex;
+    align-items: center; /* Ensure items are centered vertically */
+    justify-content: center;
+    flex-grow: 1;
+  }
+  
+  .header-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  button, .nav-button {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: black;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .about-button {
+    display: flex;
+    align-items: center;
+  }
+  
+  .about-icon {
+    height: 20px;
+    margin-left: 0.5rem;
+  }
+  
+  .login-button, .dropdown-button {
+    color: black;
+    position: relative;
+  }
+  
+  .signin-button {
+    background-color: #5D22DC;
+    border: none;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    padding: 0.5rem 1rem; /* Add padding to match button style */
+    border-radius: 4px; /* Add border radius to match button style */
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    display: inline-block; /* Ensure it behaves like a button */
+  }
+  
+  button:hover, .nav-button:hover, .signin-button:hover {
+    opacity: 0.8;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .dropdown {
+    position: relative;
+  }
+  
+  .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+    z-index: 1000;
+  }
+  
+  .dropdown-item {
+    background-color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .about-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+  }
+  
+  .about-content {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+@media (max-width: 360px) {
+  .menu-button {
+    display: block;
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  
+  .header-center .nav-button, 
+  .header-right .login-button, 
+  .header-right .signin-button {
+    display: none;
+  }
+
+  .menu {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    position: absolute;
+    top: 3rem; /* Adjust based on your header height */
+    right: 0; /* Align the menu to the right */
+    z-index: 1001;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  .menu button {
+    margin: 0;
+    padding: 0.75rem;
+    border-bottom: 1px solid #eee;
+  }
+
+  .menu button:last-child {
+    border-bottom: none;
+  }
+}

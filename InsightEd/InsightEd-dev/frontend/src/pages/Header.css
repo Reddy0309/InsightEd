@@ -1,0 +1,253 @@
+.headeR {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Ensure items are centered vertically */
+    background-color: #FFFFFF;
+    color: black;
+    padding: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 98%;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .header-lefT {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logO {
+    height: 50px;
+    margin-right: 1rem;
+  }
+  
+  .header-centeR {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    padding-right: 230px;
+  }
+  
+  .header-righT {
+    display: flex;
+    align-items: center;
+  }
+  
+  button, .nav-buttoN {
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: black;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .about-buttoN {
+    display: flex;
+    align-items: center;
+  }
+  
+  .about-icoN {
+    height: 20px;
+    margin-left: 0.5rem;
+  }
+  
+  .login-buttoN, .dropdown-buttoN {
+    color: black;
+    position: relative;
+  }
+  
+  .signin-buttoN {
+    background-color: #5D22DC;
+    border: none;
+    color: white;
+    text-decoration: none; /* Remove underline */
+    padding: 0.5rem 1rem; /* Add padding to match button style */
+    border-radius: 4px; /* Add border radius to match button style */
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    display: inline-block; /* Ensure it behaves like a button */
+  }
+  
+  button:hover, .nav-buttoN:hover, .signin-buttoN:hover {
+    opacity: 0.8;
+  }
+  
+  h1 {
+    margin: 0;
+    padding-bottom: 10px;
+  }
+  
+  .dropdown {
+    position: relative;
+  }
+  
+  .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    overflow: hidden;
+    z-index: 1000;
+  }
+  
+  .dropdown-item {
+    background-color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .about-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+  }
+  
+  .about-contenT {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  h1{
+    font-size: 2rem;
+    background: url(../assets/purplesky.avif);
+    background-clip: text;
+    color: transparent;
+    animation: move 1s infinite;
+  }
+  @keyframes move {
+    100% {
+      background-position-x: 500px;
+}
+  }
+  
+/* Media Queries */
+@media (max-width: 2560px) {
+  button, .nav-buttoN {
+    background-color: #5D22DC;
+    border: 2px solid #fff;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+}
+
+@media (max-width: 1440px) {
+  button, .nav-buttoN {
+    background-color: #5D22DC;
+    border: 2px solid #fff;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+}
+
+@media (max-width: 1024px) {
+  button, .nav-buttoN {
+    background-color: #5D22DC;
+    border: 2px solid #fff;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+}
+
+@media (max-width: 768px) {
+  button, .nav-buttoN {
+    background-color: #5D22DC;
+    border: 2px solid #fff;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+}
+
+@media (max-width: 425px) {
+  button, .nav-buttoN {
+    background-color: #5D22DC;
+    border: 2px solid #fff;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-left: 5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+}
+
+@media (max-width: 375px) {
+  button, .nav-buttoN {
+    background-color: #5D22DC;
+    border: 2px solid #fff;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-left: 1.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+}
+
+@media (max-width: 320px) {
+  button, .nav-buttoN {
+    background-color: #5D22DC;
+    border: 2px solid #fff;
+    color: white;
+    padding: 0.5rem 1rem;
+    margin-left: 1.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: opacity 0.3s ease;
+    font-size: 1rem; /* Set font size */
+    font-family: Arial, sans-serif; /* Set font family */
+    text-decoration: none; /* Remove underline */
+  }
+}

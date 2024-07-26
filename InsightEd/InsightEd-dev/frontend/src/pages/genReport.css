@@ -1,0 +1,106 @@
+body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.signuP-PagE {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 1; /* Allow it to grow to take up space */
+  width: 100%;
+}
+
+.signuP-ContaineR {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 90px;
+  gap: 10px;
+  width: 70%;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.signuP-InpuT {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 6px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  width: 80%;
+}
+
+.signuP-ButtoN {
+  margin-left: 20px;
+  border: none;
+  background-color: #B322DC;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+  width: 90%;
+  max-width: 210px;
+  display: flex;
+  justify-content: center;
+}
+
+.signuP-ButtoN:hover {
+  background-color: #4ADC22;
+}
+
+.signuP-ContaineR label {
+  margin-top: 2px;
+  margin-left: 10px;
+  color: white;
+  font-weight: bold;
+  display: block;
+}
+
+.label {
+  margin-left: 20px;
+  color: white;
+}
+
+form {
+  margin-top: 45px;
+}
+
+.h5 {
+  margin-top: 120px;
+  font-size: 2rem;
+  background: url(../assets/purplesky.avif);
+  background-clip: text;
+  color: transparent;
+  animation: move 1s infinite;
+  margin-bottom: -80px;
+}
+
+.Choose {
+  background-color: #4ADC22;
+  margin-top: 50px;
+}
+
+.Back {
+  margin-right: 22px;
+  margin-bottom: 193px;
+}
+
+.gen {
+  display: inline-block;
+  margin-left: 29%;
+}
+
+.rep {
+  display: inline-block;
+}
+.p{
+    margin-top: -150px;
+}
+
